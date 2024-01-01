@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #c3f1fb;
 }
 
 .app-Header, .app-Main {
@@ -23,10 +24,12 @@
 
 
 #drink-title{
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 #drink-description{
+  font-style: italic;
+  font-weight:300;
   font-size: 1rem;
 }
 

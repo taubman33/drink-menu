@@ -13,8 +13,8 @@ const Main = () => {
 
     { title: "Old Fashioned", description: "Don’t mess with the classic!" },
     {
-      title: "New Hotness",
-      description: "Bourbon, Aperol, Passionfruit Syrup, Lime and & Mint",
+      title: "Delray Cooler",
+      description: "Bourbon, Aperol, Passionfruit Syrup, Lime and & Mint. The best thing to come out of Delray Beach",
     },
     {
       title: "Parisian Margarita",
@@ -38,6 +38,10 @@ const Main = () => {
     {
       title: "Aperol Spritzer",
       description: "A summer delight; bright, sweet, and delicious",
+    },
+    {
+      title: "Simsbury Float",
+      description: "Coca cola and chocolate Liquer with Ice cream on top",
     },
     {
       title: "Kingston Libre",
