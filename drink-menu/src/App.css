@@ -4,8 +4,32 @@
   padding: 2rem;
   text-align: center;
 }
+
+.app-Header, .app-Main {
+  border-bottom: 1px solid black
+}
   
+.app-Footer {
+  margin-top : 3rem;
+}
+
+.drink-card {
+  border-bottom: 1px solid black
+}
 
 #footer-text, #drink-title, #header-text {
   font-family: 'Pacifico', cursive;
 }
+
+
+#drink-title{
+  font-size: 2.5rem;
+}
+
+#drink-description{
+  font-size: 1rem;
+}
+
+#footer-text{
+  font-size: 1rem;
+} 

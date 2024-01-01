@@ -1,8 +1,8 @@
-export default Footer = () => {
+const Footer = () => {
   return (
     <div className="footer">
       <h2 id="footer-text">
-        {" "}
+    
         Ask your hosts about our fine selection of beers, wines and liqueurs
         <br />
         Sodas, Sparkling Water & Lemonade
@@ -12,3 +12,5 @@ export default Footer = () => {
     </div>
   );
 };
+
+export default Footer

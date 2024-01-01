@@ -10,9 +10,10 @@ function App() {
   return (
     
       <div className="menu">
-        <Header/>
-        <Main/>
-        <Footer/>
+        <div className="app-Header"><Header/></div>
+        <div className="app-Main"> <Main/></div>
+        <div className="app-Footer">  <Footer/></div>
+      
         </div>
        
   

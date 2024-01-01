@@ -1,4 +1,4 @@
-export default Main = () => {
+const Main = () => {
   const drinks = [
     {
       title: "The Weatogue",
@@ -52,7 +52,14 @@ export default Main = () => {
 
   return (
     <div className="drink-list">
-      <h1> main</h1>
+     {drinks.map((drink)=> (
+        <div className="drink-card" key={drink.title}>
+            <h2 id="drink-title">{drink.title}</h2>
+            <h3 id="drink-description"> {drink.description}</h3>
+        </div>    
+     ))}
     </div>
   );
 };
+
+export default Main
