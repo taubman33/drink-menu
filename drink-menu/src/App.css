@@ -1,11 +1,10 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
-  background-image: url('./assets/drink.jpg');
-  background-repeat: no-repeat;
+  background: url('./assets/drink.jpg') no-repeat fixed center;
+  /* background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: inherit; */
 }
 
 .app-Header, .app-Main {
@@ -18,10 +17,16 @@
 
 .drink-card {
   border-bottom: 1px solid black;
-  margin: 2rem;
+  margin: 1rem;
   background-color: rgba(229, 235, 217, 0.8);
 }
 
+
+.header-container {
+  background-color: rgba(229, 235, 217, 0.8);
+  padding:2rem;
+
+}
 #footer-text, #drink-title, #header-text {
   font-family: 'Pacifico', cursive;
 }
@@ -40,3 +45,8 @@
 #footer-text{
   font-size: 1rem;
 } 
+
+
+#header-text {
+  font-size: 2rem;
+}
