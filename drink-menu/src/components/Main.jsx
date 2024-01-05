@@ -11,7 +11,7 @@ const Main = () => {
       description: "We keep our house clean so we can keep our Martinis dirty",
     },
 
-    { title: "Old Fashioned", description: "Don’t mess with the classic!" },
+    { title: "Papa's Old Fashioned", description: "Don’t mess with the classic! Alyssa hates the name, Jeremy loves the drink." },
     {
       title: "Delray Cooler",
       description: "Bourbon, Aperol, Passionfruit Syrup, Lime and & Mint. The best thing to come out of Delray Beach",
@@ -19,6 +19,10 @@ const Main = () => {
     {
       title: "Parisian Margarita",
       description: "Tequila blanco with St. Germain and lime juice. Très bien!",
+    },
+    {
+      title: "The Baby Maker",
+      description: "Tequila Anejo, Jamaican Rum, Passion Fruit Syrup, Vanilla",
     },
     {
       title: "Long Beach Iced Tea",
