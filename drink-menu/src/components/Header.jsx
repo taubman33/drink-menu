@@ -1,6 +1,6 @@
 const Header = () => {
 return (
-    <h1 id ="header-text"> Drink Menu</h1>
+    <h1 id ="header-text"> Taubman House Drink Menu</h1>
 )
 }
 

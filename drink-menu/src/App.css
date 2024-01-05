@@ -3,7 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-color: #c3f1fb;
+  background-image: url('./assets/drink.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .app-Header, .app-Main {
@@ -15,7 +17,9 @@
 }
 
 .drink-card {
-  border-bottom: 1px solid black
+  border-bottom: 1px solid black;
+  margin: 2rem;
+  background-color: rgba(229, 235, 217, 0.8);
 }
 
 #footer-text, #drink-title, #header-text {
