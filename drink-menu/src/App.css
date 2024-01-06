@@ -1,10 +1,7 @@
 #root {
   margin: 0 auto;
   text-align: center;
-  background: url('./assets/drink.jpg') no-repeat fixed center;
-  /* background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: inherit; */
+  background-color:rgb(84, 198, 206)
 }
 
 .app-Header, .app-Main {
