@@ -24,6 +24,11 @@ const Main = () => {
       title: "The Baby Maker",
       description: "Tequila Anejo, Jamaican Rum, Passion Fruit Syrup, Vanilla",
     },
+
+    {
+      title: "Blue Dream",
+      description: "No, not that kind... Tequila Blanco, Blue Curacao, fresh lime juice",
+    },
     {
       title: "Long Beach Iced Tea",
       description:
@@ -43,6 +48,10 @@ const Main = () => {
       title: "Aperol Spritzer",
       description: "A summer delight; bright, sweet, and delicious",
     },
+    {
+      title: 'Sky Blue Sky',
+    description: 'St Germain, Blue Curacao, Seltzer'
+  },
     {
       title: "Simsbury Float",
       description: "Coca cola and chocolate Liquer with Ice cream on top",
