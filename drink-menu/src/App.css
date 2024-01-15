@@ -15,12 +15,12 @@
 .drink-card {
   border: 1px solid black;
   margin: 1rem;
-  background-color: rgba(229, 235, 217, 0.8);
+  background-color: rgba(227, 235, 217, 0.8);
 }
 
 
 .header-container {
-  background-color: rgba(229, 235, 217, 0.8);
+  background-color: rgba(227, 235, 217, 0.8);
   padding:2rem;
 
 }
