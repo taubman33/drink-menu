@@ -12,7 +12,7 @@ function App() {
       <div className="menu">
         <div className="app-Header"><Header/></div>
         <div className="app-Main"> <Main/></div>
-        <div className="app-Footer">  <Footer/></div>
+        <div className="app-Footer"> <Footer/></div>
       
         </div>
        
