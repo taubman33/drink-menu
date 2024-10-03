@@ -34,6 +34,17 @@ const Main = () => {
       description:
         "Like a Long Island Iced Tea, but it wears sandals and listens to reggae",
     },
+
+    {
+      title: "The Dad Joke",
+      description:
+        "A shot of bourbon, a dash of updog, and a good quality butfor",
+        
+    },
+    {title: "Rhode Island Duderino",
+      description:
+        "Coffee milk and vodka, if you're not into the whole brevity thing",
+        },
     {
       title: "Holy Grail",
       description:

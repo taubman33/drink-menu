@@ -4,6 +4,10 @@
   background-color:rgb(84, 198, 206)
 }
 
+body {
+  background-color: rgb(16, 45, 141)
+}
+
 .app-Header, .app-Main {
   border-bottom: 1px solid black
 }
@@ -21,6 +25,7 @@
 
 .header-container {
   background-color: rgba(227, 235, 217, 0.8);
+  border: 1rem solid rgb(16, 45, 141);
   padding:2rem;
 
 }
@@ -46,4 +51,8 @@
 
 #header-text {
   font-size: 2rem;
+}
+
+.menu {
+  border: .5em solid rgba(227, 235, 217, 0.8) 
 }
