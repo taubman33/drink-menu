@@ -11,7 +11,12 @@ const Main = () => {
       description: "We keep our house clean so we can keep our Martinis dirty",
     },
 
-    { title: "Papa's Old Fashioned", description: "Don’t mess with the classic! Alyssa hates the name, Jeremy loves the drink." },
+    { title: "Papa J's Old Fashioned", description: "Don’t mess with the classic! Alyssa hates the name, Jeremy loves the drink." },
+    {
+      title: "Delray Cooler",
+      description: "Bourbon, Aperol, Passionfruit Syrup, Lime and & Mint. The best thing to come out of Delray Beach",
+    },
+    { title: "Sophia's Smile", description: "Strawberry lemonade with a healthy shot of whatever you'd like." },
     {
       title: "Delray Cooler",
       description: "Bourbon, Aperol, Passionfruit Syrup, Lime and & Mint. The best thing to come out of Delray Beach",
