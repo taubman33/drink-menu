@@ -1,4 +1,5 @@
 const Header = () => {
+    console.log('header')
 return (
     <div className="header-container">
     <h1 id ="header-text"> Taubman House 

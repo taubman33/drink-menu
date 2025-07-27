@@ -1,4 +1,5 @@
 const Main = () => {
+  console.log('main')
   const drinks = [
     {
       title: "The Weatogue",
@@ -82,7 +83,7 @@ const Main = () => {
         "Delicious! So good! Really! Why would we lie to you? Please drink our Sambuca!",
     },
   ];
-
+console.log(drinks)
   return (
     <div className="drink-list">
      {drinks.map((drink)=> (

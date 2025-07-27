@@ -5,6 +5,7 @@ import Header from './components/Header'
 import './App.css'
 
 function App() {
+  console.log('loaded')
   return (
     
       <div className="menu">
